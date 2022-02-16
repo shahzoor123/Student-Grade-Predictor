@@ -2,7 +2,7 @@
 
 This ml model is design to predicte the grades of the students in the up coming terms and final semester
 
-1 - First add excel data file in your google drive
+1 - First add excel data file("student-mat.csv") in your google drive
 <br>
 2 - Than connect the path of the data file to your programe path
 <br>
